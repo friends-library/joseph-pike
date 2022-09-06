@@ -516,7 +516,9 @@ as closely bearing upon Joseph Pike`'s fervent concern on behalf of the Society 
 and as unfolding also the progress of that degeneracy,
 which was then breaking in upon our little church.
 
-"`God hath said, I will dwell in them, and walk in them; and I will be their God,
+[quote]
+____
+God hath said, I will dwell in them, and walk in them; and I will be their God,
 and they shall be my people.
 Wherefore come out from among them, and be ye separate,`" saith the Lord,
 "`and touch not the unclean thing; and I will receive you, and will be a Father unto you,
@@ -638,6 +640,7 @@ sickly condition, seeming scarcely likely to live long,
 except they timely apply to the great and good Physician,
 who is both able and willing to restore life, health, soundness and vigour,
 to raise up "`judges as at the first and counsellors as at the beginning.`"
+____
 
 Certainly, the painful picture thus held up to us to ponder over,
 must be admitted as conveying, in very faithful though vivid colours,
@@ -671,22 +674,29 @@ and which was written for our instruction,
 "`upon whom the ends of the world are come,`" "`that we through
 patience and comfort of the Scriptures might have hope.`"
 
+[.offset]
 "`Turn ye unto me, saith the Lord of hosts, and I will turn unto you.`"
 
+[.offset]
 And when the inquiry went forth,
 "`How long wilt thou not have mercy on Jerusalem and on the cities of Judah?`"
 the condescending answer was conveyed "`with good words and comfortable words.`"
 
+[.offset]
 "`I am returned to Jerusalem with mercies.`"
 
+[.offset]
 "`My cities through prosperity shall yet be spread abroad,
 and the Lord shall yet comfort Zion, and shall yet choose Jerusalem.`"
 
+[.offset]
 "`I will be unto her a wall of fire round about,
 and will be the glory in the midst of her.`"
 
+[.offset]
 "`I will save you, and ye shall be a blessing: fear not, but let your hands be strong.`"
 
+[.offset]
 "`Turn you to the strong hold, ye prisoners of hope.`"
 
 Those who desire in uprightness to have a part in such "`good things to come,`"
@@ -755,6 +765,8 @@ wherein they strongly mark their sense of the superior state of the discipline,
 and the exemplary degree of oversight in that portion of the church,
 which their system and methods embraced.
 
+[quote]
+____
 So that, dear brethren, +++[+++they remark,]
 we have good tidings to give you of truth`'s prosperity at large;
 and more especially in the church,
@@ -779,9 +791,13 @@ and Friends departed.
 The Lord grant that you also may make the same purpose the travail of your souls,
 and end of your labour and service of love, as not seeking your own things,
 but the things of Jesus Christ, in this your solemn General Meeting.
+____
 
 In the Journal of Thomas Story we likewise have this remark in commendation
 of the religious care of Friends over their own body in that country.
+
+[quote]
+____
 
 The same afternoon was their meeting for business, +++[+++at Mountmellick,]
 where things were managed with a just severity against every appearance of evil,
@@ -791,6 +807,7 @@ William Edmundson, who lived within the precincts of that meeting: for whom,
 not they only, but also all Ireland, may give thanks to the Lord,
 for due observation of order in the churches of Christ in that kingdom.
 (p. 137.)
+____
 
 The editor has thus expatiated in a manner,
 which nothing but his undiminished fervency of interest in all that appertains
@@ -857,6 +874,9 @@ to spread before his friends a deeply important quotation from a writer,
 who was far more worthy than he is,
 and better qualified to address the churches in "`a day of trouble and of treading down,
 and of perplexity,`" "`of rebuke and of blasphemy`" also.
+
+[quote]
+____
 
 "`The church is called the body of Christ.`"
 "`Christ is called the head of the church.`"
@@ -981,8 +1001,12 @@ is to abide faithfully under the leadings of his holy Spirit in all cases;
 and being thereby preserved in purity of heart and holiness of conversation,
 a testimony to the purity of his government may be held forth through us to others.
 
+[.signed-section-context-close]
 Extracted from an Epistle addressed to the Society of Friends, by John Woolman, 1772.
 
+[.signed-section-signature]
 John Barclay.
 
+[.signed-section-context-close]
 Stoke Newington, Eleventh month, 1837.
+____

@@ -1,9 +1,12 @@
 == Letters and Extracts from Letters of Joseph Pike
 
+[.letter-heading]
 To Mary Wall, Bristol
 
+[.signed-section-context-open]
 Cork, 2nd of Tenth month, 1702.
 
+[.salutation]
 My dear aunt,
 
 Though I have not written to thee, as I remember, since I saw thee, yet I can say,
@@ -32,10 +35,13 @@ My dear aunt, my heart is full of love, and much is in my mind,
 but I desire rather to be felt by thee, in that which is beyond words,
 than to enlarge in too much writing.
 
+[.letter-heading]
 To John Fallowfield
 
+[.signed-section-context-open]
 Cork, 19th of First month, 1710.
 
+[.salutation]
 Dear friend, John Fallowfield,
 
 Feeling a sweetness and openness, I send this with the salutation of endeared love,
@@ -87,10 +93,13 @@ and that thus it may be with us both, and all the Lord`'s people,
 is the very desire of my soul.
 Amen.
 
+[.letter-heading]
 To the Same
 
+[.signed-section-context-open]
 Cork, 28th of First month, 1711.
 
+[.salutation]
 Dear friend, John Fallowfield,
 
 I send this with the salutation of dear love,
@@ -117,10 +126,13 @@ But oh! for want of more inwardness, and by neglecting the watch,
 I verily believe many have suffered loss, who once knew good things;
 and that it may not be so with either of us, is the very desire of my soul.
 
+[.letter-heading]
 To Henry Gouldney
 
+[.signed-section-context-open]
 Cork, 10th of Ninth month, 1712.
 
+[.salutation]
 Dear friend, Henry Gouldney,
 
 Having taken notice of the chief contents of thine,
@@ -158,10 +170,13 @@ we had known more of his blessed Truth than we do at this day and therefore,
 oh! that during the few days we may yet have to spend,
 we may pray continually that the Lord might be pleased to stay our minds upon Him.
 
+[.letter-heading]
 To James Hoskins
 
+[.signed-section-context-open]
 Cork, 23rd of Ninth month, 1712.
 
+[.salutation]
 Dear friend,
 
 I observe what thou writest in relation to the admittance
@@ -173,10 +188,13 @@ that such who are admitted ought, in measure,
 as well to have a concern upon their minds for the Lord`'s service,
 as to be honestly inclined respecting their own souls.
 
+[.letter-heading]
 To John Wright
 
+[.signed-section-context-open]
 Cork, 21st of Twelfth month, 1712.
 
+[.salutation]
 Dear friend, John Wright,
 
 In that love which reaches over sea and land, do we at this time dearly remember thee,
@@ -221,10 +239,13 @@ and relieve the bowed down, and distressed in spirit,
 who mourn and lament for the deplorable state of the church,
 in many places too much governed and overruled by pretended elders and a libertine party.
 
+[.letter-heading]
 To Mary Beale
 
+[.signed-section-context-open]
 Cork, Twelfth month, 1712.
 
+[.salutation]
 My dear sister, Mary Beale,
 
 In relation to members of men`'s and women`'s meetings, I think I am not,
@@ -236,10 +257,13 @@ If, on the contrary, there is height or stiffness, either in men or women,
 I must say that I think the admittance of such will
 rather do the church and themselves hurt than good.
 
+[.letter-heading]
 To James Wilson
 
+[.signed-section-context-open]
 Cork, 26th of First month, 1714.
 
+[.salutation]
 Dear friend, James Wilson,
 
 I believe with thee,
@@ -290,10 +314,13 @@ that in the end we may obtain the crown,
 and receive the recompense of reward laid up for the righteous.
 Amen.
 
+[.letter-heading]
 To Margaret Hoare
 
+[.signed-section-context-open]
 Cork, 23rd of First month, 1714.
 
+[.salutation]
 My dear sister,
 
 Our God is love, and as saith the apostle, they who dwell in him, dwell in love;
@@ -355,10 +382,13 @@ And yet, oh! how forgetful we are, that even at such times of exercise as these,
 we cannot sensibly remember, so as livingly to believe, he will deliver us again,
 but are too apt to make a judgment of our present desertion and distress of spirit.
 
+[.letter-heading]
 To Abigail Craven, Afterwards Watson
 
+[.signed-section-context-open]
 Cork, 26th of Third month, 1717.
 
+[.salutation]
 Dear Abigail,
 
 I herewith send thee the salutation of my dear love, as unto one whom I truly love,
@@ -402,6 +432,9 @@ remembering what the apostle saith,
 which Truth does not disallow, may not be convenient to take or use in many places,
 or indeed but in a few.
 
+[.small-break]
+'''
+
 +++[+++See a memorial of the Friend to whom the next letter is addressed,
 in A Collection of Testimonies Concerning Ministers, etc.
 Deceased.
@@ -409,10 +442,13 @@ London, 1760.
 He visited meetings in Ireland in 1717, being then twenty-five years of age,
 and having been about five years engaged in the ministry.--Editor.]
 
+[.letter-heading]
 To Joseph Gurney
 
+[.signed-section-context-open]
 Cork, Sixth month, 1717.
 
+[.salutation]
 Dear friend,
 
 It hath been very often upon my mind since thy departure, to visit thee with a few lines,
@@ -644,10 +680,13 @@ and stand in the dominion of Truth over all opposition both from within and with
 That this may be thy lot here, and an eternal portion of glory hereafter,
 is the desire of my soul.
 
+[.signed-section-signature]
 Joseph Pike.
 
+[.letter-heading]
 To John Haman, at George Chalkley`'s, Near London
 
+[.signed-section-context-open]
 Cork, 11th of Fifth month, 1718.
 
 Dear friend,
@@ -735,6 +774,9 @@ I have on the one hand advised thee what I think best,
 and on the other warned thee of what may be for thy hurt,
 whether I ever live to see thee or not.
 
+[.small-break]
+'''
+
 +++[+++The following letters, found among the author`'s correspondence,
 have so close a bearing upon the state of our Society
 during the latter days of Joseph Pike,
@@ -749,8 +791,10 @@ whom she considered as a pillar in the church.
 When sufficiently recruited, she returned pretty directly home to London;
 and from that time her correspondence with this Friend commenced.--Editor.]
 
+[.letter-heading]
 Deborah Bell to Joseph Pike
 
+[.signed-section-context-open]
 18th of Twelfth month, 1717.
 
 I think I do daily see more and more need to cry out with thee, O! this inwardness,
@@ -820,8 +864,10 @@ and to be frequently visited by thy fatherly epistles, as freedom and opportunit
 and keep nothing back that may be in thy mind towards me,
 for I have an open heart to receive good counsel.
 
+[.letter-heading]
 Deborah Bell to Joseph Pike
 
+[.signed-section-context-open]
 12th of Fourth month, 1718.
 
 The church is in my judgment in a poor condition,
@@ -857,8 +903,10 @@ that the greatest hurt and obstruction of God`'s
 glorious work lies amongst some called ministers,
 and such as are next in degree to them.
 
+[.letter-heading]
 Deborah Bell to Joseph Pike
 
+[.signed-section-context-open]
 London, 9th of Ninth month, 1718.
 
 Some of thy good fatherly counsel and experience would be
@@ -940,10 +988,13 @@ by which we were made to love one another, which love is stronger than death,
 we shall still abide in the oneness, and see by the eye of faith the same things,
 and so be a help, strength, and confirmation one to another.
 
+[.letter-heading]
 Deborah Bell to Joseph Pike
 
+[.signed-section-context-open]
 24th of Second month, 1719.
 
+[.salutation]
 My good and worthy friend.
 
 Thy kind and acceptable letter of the eighth month, I received,
@@ -1036,10 +1087,13 @@ then many will speak well of it; but when it comes to suffer, be buffeted,
 mocked and reviled, then comes the trial of our love,
 and many we see who are not willing or able to bear these things.
 
+[.letter-heading]
 Joseph Pike to Deborah Bell
 
+[.signed-section-context-open]
 Cork, 3rd of Ninth month, 1720.
 
+[.salutation]
 Dear friend, Deborah Bell,
 
 Thy long looked for letter of the 1st of seventh month past,
@@ -1083,10 +1137,13 @@ and who are not yet without hope,
 that the Lord will arise and plead his own cause for his name and glory`'s sake.
 Amen.
 
+[.letter-heading]
 To Samuel Hopwood
 
+[.signed-section-context-open]
 Cork, 29th of Second month, 1721.
 
+[.salutation]
 Dear friend,
 
 This goes to thee with the salutation of my endeared love in the holy Truth,
@@ -1112,10 +1169,13 @@ if not exampled by some who would be accounted leaders and elders of the people,
 which has greatly saddened the hearts of the righteous,
 who have kept their habitations in the Truth.
 
+[.letter-heading]
 To Henry Jackson
 
+[.signed-section-context-open]
 Near Cork, 9th of Ninth month, 1723.
 
+[.salutation]
 My dear friend, Henry Jackson,
 
 Thy truly acceptable letter of the 13th past, I received some days since;
@@ -1262,7 +1322,7 @@ yet very short of what I could have said on the subjects.
 
 And though I have been thus large already,
 yet I cannot well omit some further additions upon thy letter particularly.
-First, of the hint thou givest of thy poverty of spirit and desertion at times;
+_First,_ of the hint thou givest of thy poverty of spirit and desertion at times;
 to answer this subject at large would fill more paper than I have to spare;
 and therefore, to be but brief upon it, shall say to thee, my dear friend,
 this is no new thing; it was so of old,
@@ -1288,16 +1348,22 @@ We find it was so with the great apostle Paul,
 for which reason the messenger of Satan was sent to buffet him and keep him low:
 neither did the meekest man on earth wholly escape this temptation of self.
 
-Secondly, by great tribulation the righteous gain patience, as well as experience,
+[.numbered-group]
+====
+
+[.numbered]
+_Secondly,_ by great tribulation the righteous gain patience, as well as experience,
 so as in the end they learn not only how to abound without elevation,
 but patiently also to suffer want.
 
-Thirdly, the Lord does often hide and withdraw, as of old,
+[.numbered]
+_Thirdly,_ the Lord does often hide and withdraw, as of old,
 in order to try his little ones`' faith, patience, and dependence upon him,
 and that they may learn to depend upon nothing at all of themselves;
 but entirely as a weaned child upon him.
 
-Fourthly, the Lord is oftentimes pleased to suffer the enemy to buffet, tempt,
+[.numbered]
+_Fourthly,_ the Lord is oftentimes pleased to suffer the enemy to buffet, tempt,
 and distress his peculiar instruments more than others in a common way,
 and sometimes in an uncommon manner, with such temptations too,
 that they seemed not to be naturally inclined to before; and this he does,
@@ -1311,6 +1377,8 @@ If then our Lord suffered and was tempted for that end, shall it be a wonder tha
 even the highest gifted instruments, should be so in an extraordinary manner; to the end,
 that they also should lend a helping hand by their
 own experience to others who are tempted and distressed.
+
+====
 
 The holy Scriptures are full of instances,
 of such as had attained large experience in the things of God:
@@ -1365,10 +1433,13 @@ and I hope they will never forget or lose it, particularly to my son: he does, I
 retain the exercise he then fell under, to my great comfort.
 My soul prays it may continue with him.
 
+[.letter-heading]
 To Thomas Story
 
+[.signed-section-context-open]
 Cork, 22nd of Ninth month, 1723.
 
+[.salutation]
 Dear friend,
 
 As the Lord is pleased to bestow upon some far greater
@@ -1499,8 +1570,8 @@ bright and shining instrument in his hand,
 so thou mayst on thy part answer his love therein by thy obedience,
 and by carefully avoiding anything that may in the least eclipse thy gift.
 
-Extract from the Last Will and Testament of Joseph Pike, of Cork,
-Dated the 25th Day of the Month called November, 1727.
+[.blurb]
+=== Extract from the Last Will and Testament of Joseph Pike, of Cork, Dated the 25th Day of the Month called November, 1727.
 
 I, Joseph Pike, of the city of Cork, merchant, being but weakly in body,
 but through the Lord`'s mercy of perfect mind and understanding; and,

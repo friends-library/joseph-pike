@@ -233,6 +233,7 @@ and all that is within me, bows with deep reverence and thankfulness,
 rendering unto Him alone, the Lord of heaven and of the whole earth, the honour, praise,
 power and dominion forever!
 
+[.signed-section-context-close]
 Near Cork, 28th of First month, 1723.
 
 [.asterism]
@@ -263,6 +264,10 @@ and two thousand copies of it were ordered to be
 printed and distributed among Friends of this nation.
 The epistle is as follows.
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 My dearly beloved friends and brethren:
 
 Having been for some time under a deep and mournful
@@ -790,9 +795,13 @@ will lead thereto.
 
 And now I shall conclude, in much brotherly love, your dear friend,
 
+[.signed-section-signature]
 Joseph Pike.
 
+[.signed-section-context-close]
 Cork, 2nd of Third Month, 1726.
+
+--
 
 +++[+++The following little circumstance has been unintentionally
 omitted to be inserted in its proper place,
@@ -803,6 +812,8 @@ in the course of a visit in Gospel love to Friends in Ireland, landed at Cork in
 and being much fatigued came to Joseph Pike`'s, where he found a kind and open reception,
 and the refreshment he stood in need of.
 
+[quote]
+____
 It being the time of the court sessions, +++[+++he writes,]
 many of the higher ranks were in town on that occasion;
 with some of whom our friends were acquainted.
@@ -843,6 +854,7 @@ and a daily exercise to us; and I hope you will not look at the worst,
 since among us everywhere,
 you may find better and more general examples of
 virtue and plainness.`"--Story`'s Journal, fol. p. 533.--Editor.]
+____
 
 In the tenth month, 1726, I caught a violent cold, and was affected with the asthma,
 so that I was obliged to sit up in a chair for about six weeks; after which,
@@ -886,9 +898,12 @@ and am now waiting for my dissolution, when the Lord shall please to call me.
 I pray unto him, with all the powers of my soul, for preservation to the end,
 and that I may be truly prepared for that sure, though uncertain hour, whenever it comes.
 
+[.signed-section-signature]
 Joseph Pike.
 
+[.signed-section-context-close]
 From my house, at the Well, near Cork, this 10th of third month, 1728,
 in the 71st year of my age.
 
+[.the-end]
 End of Joseph Pike`'s Journal
