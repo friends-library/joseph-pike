@@ -165,7 +165,7 @@ At his death, he left five children, namely, Elizabeth, myself, Ebenezer, Richar
 and Sarah.
 My eldest sister was afterwards married to Henry Wheddon, merchant,
 and died in the year 1693, making a blessed end.
-See an account of her in Piety Promoted.
+See an account of her in [.book-title]#Piety Promoted.#
 
 In the year 1682, being then in my twenty-fifth year, I was married to Elizabeth,
 eldest daughter of Francis Rogers, a worthy and honourable Friend in the ministry.
@@ -490,6 +490,6 @@ as abundantly testified of in the Holy Scriptures,
 and also in many of our Friends`' writings.
 I refer particularly to the works of our beloved brethren,
 William Penn and Robert Barclay, especially to the latter, in the 2nd, 5th,
-and 6th propositions of his Apology, upon Immediate Revelation,
+and 6th propositions of his [.book-title]#Apology,# upon Immediate Revelation,
 and the Universality of the Light and Grace of Christ,
 where my reader will find it very fully treated of.

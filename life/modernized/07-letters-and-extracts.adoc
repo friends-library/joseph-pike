@@ -403,11 +403,11 @@ which Truth does not disallow, may not be convenient to take or use in many plac
 or indeed but in a few.
 
 +++[+++See a memorial of the Friend to whom the next letter is addressed,
-in A Collection of Testimonies Concerning Ministers, etc.
+in [.book-title]#A Collection of Testimonies Concerning Ministers, etc.#
 Deceased.
 London, 1760.
 He visited meetings in Ireland in 1717, being then twenty-five years of age,
-and having been about five years engaged in the ministry.--Editor.]
+and having been about five years engaged in the ministry.--__Editor.__]
 
 To Joseph Gurney
 
@@ -748,7 +748,7 @@ was laid by at Cork, where, she states in her published journal,
 she had much comfort in the company of Joseph Pike,
 whom she considered as a pillar in the church.
 When sufficiently recruited, she returned pretty directly home to London;
-and from that time her correspondence with this Friend commenced.--Editor.]
+and from that time her correspondence with this Friend commenced.--__Editor.__]
 
 Deborah Bell to Joseph Pike
 
