@@ -68,10 +68,15 @@ But there is a very great difference between such
 good and lawful things which we cannot live without,
 for the support of life, and such as we can live comfortably without.
 
+[.small-break]
+'''
+
 +++[+++Another exercised member of our Society, who had moved in the circles of gay life,
 after she had given up to obey the Divine call from the fashions of the world,
 thus writes:--
 
+[quote]
+____
 I am sensible that silks, ribbons and lace,
 are not anywhere in Scripture directly forbidden, but I learn, from thence, that pride,
 and all manner of superfluity, is.
@@ -101,6 +106,7 @@ and beauty I beheld in God and find in the enjoyment of his Divine favour,
 and at times I am ready to cry out, "`O how great is his glory,
 and transcendently great his beauty!`"--See Sophia
 Hume`'s _Address to the Inhabitants of South Carolina,_ p. 24.--__Editor.__]
+____
 
 Now, although Friends in Ireland had not gone into such great excess of superfluities,
 as some elsewhere had done, yet we were too fast following them; and in all probability,
@@ -116,6 +122,8 @@ to keep out of such things,
 that I am fully satisfied the testimony of truth and the Lord`'s Spirit is against,
 and will be to the end of time.
 
+[quote]
+____
 +++[+++The ancient Christians, +++[+++writes another of the primitive Friends, Ambrose Rigge,]
 did not study those arts of splendour and gallantry,
 with which the professed Christians are now overrun, as stately palaces,
@@ -134,6 +142,7 @@ not curiously wrought with divers colours, the emblems of craftiness and deceit;
 _that_ is true simplicity of habit, which takes away what is vain and superfluous,
 and _that_ is the best and most solid garment, which is furthest from art and curiosity,
 and most apt to preserve and keep warm the body.`"]
+____
 
 We were pressingly recommended, in the first place, to the worship of God in spirit,
 and to diligent meeting together on week days, as well as first-days, and when there,
@@ -1015,6 +1024,9 @@ and wrote most maliciously against Friends.
 Some time after he left that meeting, turned deacon of the Church of England,
 as it is termed, and wrote many very bitter and wicked books against Friends and Truth.
 
+[.small-break]
+'''
+
 +++[+++Our Divine Lord and Master, when he sojourned outwardly among men,
 assured his followers, "`If a man abide not in me, he is cast forth as a branch,
 and is withered.`"
@@ -1238,6 +1250,9 @@ that no one adversary to the Society of Friends ever
 abused their meaning much more than George Keith,
 when he became an apostate from them.--__Editor.__]
 
+[.small-break]
+'''
+
 From this year until 1702,
 I attended the Half-year`'s Meetings and other services for Truth and Friends.
 
@@ -1309,6 +1324,9 @@ as that at the end of my time here, I may receive, as I doubt not he has receive
 a crown of immortal glory!
 Amen, saith my soul.
 
+[.small-break]
+'''
+
 +++[+++The reader is referred to the work called [.book-title]#Piety Promoted,# the sixth part,
 for an account of this valued Friend, and also to Rutty`'s [.book-title]#History of Friends in Ireland,# p. 261.
 Some particulars respecting his father, Francis Randall,
@@ -1357,6 +1375,9 @@ The king left a token of his gratitude for F. R.`'s hospitality, and Christian k
 which is still in possession of his descendants.
 The Monthly Meeting for the county of Wexford have left this testimony respecting him.
 
+[.embedded-content-document.testimony]
+--
+
 Francis Randall departed this life the 8th of Fifth month,
 1692,--a man who was dearly loved,
 being a serviceable man amongst us in church government.
@@ -1369,6 +1390,8 @@ being of an exemplary life and conversation,
 his testimony clear and sound and firm in the Truth,
 undaunted in the asserting of it.--__Editor.__]
 
+--
+
 Not being now able to travel as formerly,
 I have continued at home under deep exercise and travail of soul, at times,
 for the prosperity of Zion; and that a stop might be put to that floating spirit,
@@ -1380,6 +1403,9 @@ though I confess I was loath to give up to it,
 until Friends were gone to attend the service of that meeting,
 which occasions the apology I make in the beginning of it.
 The epistle is as follows.
+
+[.embedded-content-document.epistle]
+--
 
 My dearly beloved friends and brethren:
 
@@ -1564,11 +1590,16 @@ I could enlarge abundantly, my mind being full of matter,
 but I conclude with humble prayers to the God of all our mercies, that he will attend,
 and be with you by His divine presence as heretofore.
 
+[.signed-section-closing]
 And remain your friend and brother in the holy Truth,
 
+[.signed-section-signature]
 Joseph Pike.
 
+[.signed-section-context-close]
 Cork, 3rd of Third month, 1722.
+
+--
 
 This epistle was read in the Half-year`'s Meeting, and well approved,
 and entered in their meeting-book, that Friends had good unity therewith,
@@ -1577,6 +1608,9 @@ and directed copies to be sent to each Province meeting,
 and thence to every monthly and particular meeting, and to be read,
 not only in the men`'s and women`'s meetings, but to others also,
 as they might see occasion.
+
+[.small-break]
+'''
 
 +++[+++The Editor can scarcely forbear very briefly confirming the tenour
 of the foregoing epistle in relation to the sin of covetousness,

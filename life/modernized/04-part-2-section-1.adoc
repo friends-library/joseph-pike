@@ -2,16 +2,8 @@
 
 === Section I.
 
-This Second Part gives some account of my spiritual travels,
-and the various exercises of soul I have passed through and experienced
-in the way of regeneration from my youth upward:--And further shows,
-that when, by the operation of the holy Light and Spirit of the Lord upon my soul,
-I had attained to some degree of spiritual growth in my own particular,
-a concern of spirit came upon me for the prosperity of Truth in general,
-and a necessity to unite with faithful brethren for the discharge
-of the discipline in the church of Christ:--Treating also of church
-government in the Apostles`' times and in our own,
-showing how nearly they agree:--With some account of my journeys, voyages, etc.
+[.blurb]
+=== This Second Part gives some account of my spiritual travels, and the various exercises of soul I have passed through and experienced in the way of regeneration from my youth upward:--And further shows, that when, by the operation of the holy Light and Spirit of the Lord upon my soul, I had attained to some degree of spiritual growth in my own particular, a concern of spirit came upon me for the prosperity of Truth in general, and a necessity to unite with faithful brethren for the discharge of the discipline in the church of Christ:--Treating also of church government in the Apostles`' times and in our own, showing how nearly they agree:--With some account of my journeys, voyages, etc.
 
 Though the spiritual exercises which I have gone through
 in my pilgrimage were so imprinted in my mind,
@@ -574,6 +566,9 @@ and I am firmly of the judgment,
 that the affairs of the Society cannot be conducted in that unity of spirit,
 without due care be taken in the admittance of qualified members.
 
+[.small-break]
+'''
+
 +++[+++This was not merely an individual sentiment,
 it was the judgment and practice of olden and better times.
 And we find, that afterwards, when greater latitude was breaking in upon the church,
@@ -588,6 +583,9 @@ birth of those born merely by the will of man,
 to enjoy an equal share of all Christian privileges with those who are born in the Spirit.`"
 This mistake has been made by other authors besides Beverley,
 in his letters on the state of the church.--_Editor._]
+
+[.small-break]
+'''
 
 In or about the year 1677, Samuel Randall came from Dublin to live in this city.
 He was a sober, religious young man, exemplary in his conduct and apparel.
@@ -645,9 +643,15 @@ and many who were innocently betrayed to join with that spirit, returned to Frie
 and condemned that spirit, so that the few separate meetings which were set up,
 dwindled away to nothing.
 
+[.small-break]
+'''
+
 +++[+++The following is a curious and instructive account
 of a conference relative to the same division;
 it has been handed about among Friends in manuscript, and bears every mark of truth.
+
+[.embedded-content-document]
+--
 
 John Steel,
 who by relation was a plain countryman of not much note or appearance in the Society,
@@ -714,12 +718,17 @@ This is the judgment of God upon you, John Wilkinson and John Story:
 if it be not just and equal, reject it if you can.`"
 To this they were silent.
 
+--
+
 The foregoing testimony came with such powerful weight and authority, that it is said,
 William Penn remarked to Robert Barclay to this purpose:
 "`This is neither the wisdom of the north, nor the eloquence of the south,
 but the power of God through a ploughman, and marvellous in our eyes.`"
 And it is further said, that John`'s testimony had such a reach upon the meeting,
 that matters ended presently without much dispute.--__Editor.__]
+
+[.small-break]
+'''
 
 This year, 1681, Samuel Randall and I went together for England.
 We landed at Minehead, from there went to Bridgewater, and so to Bristol.
