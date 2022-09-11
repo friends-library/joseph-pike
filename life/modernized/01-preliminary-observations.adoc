@@ -320,7 +320,7 @@ it delights in good words, and feeds upon them; it cries out,
 Help! help! but principally to the servants, not to the Master:
 this spirit leads into notions: it snuffs up the wind,
 and lives in commotions itself raises: all that are led by it are superficial,
-and know nothing, and must lie down in sorrow.`"--Letters of Friends,
+and know nothing, and must lie down in sorrow.`"--[.book-title]#Letters of Friends,#
 by John Kendall, 1802, vol. i. p. 22.
 Another Friend, a discriminating and wise elder, writes thus to the same point:
 "`The religion of some seems to consist in a remembrance of former experience,
@@ -735,11 +735,11 @@ watchful, weighty elder in the church of Christ, both before and since his time.
 
 Our Yearly Meeting,
 in putting forth a few years back a new edition of
-its Rules of Discipline for the government of Friends,
+its [.book-title]#Rules of Discipline# for the government of Friends,
 makes this judicious remark:--"`It is very observable in the history of our Society,
 that the declension or revival of religious zeal has ever been accompanied by
 a corresponding relaxation or increase of care in the exercise of the discipline.`"
-Introduction to Rules of Discipline, p. 25.--The Journal of Joseph Pike,
+_Introduction to Rules of Discipline,_ p. 25.--[.book-title]#The Journal of Joseph Pike,#
 and some of his letters, furnish a fresh and strong illustration on this point,
 setting forth on the one hand the obligation and benefits of genuine church authority,
 and on the other the woeful effects of negligence and false liberty,
@@ -792,7 +792,7 @@ and end of your labour and service of love, as not seeking your own things,
 but the things of Jesus Christ, in this your solemn General Meeting.
 ____
 
-In the Journal of Thomas Story we likewise have this remark in commendation
+In the [.book-title]#Journal of Thomas Story# we likewise have this remark in commendation
 of the religious care of Friends over their own body in that country.
 
 [quote]
