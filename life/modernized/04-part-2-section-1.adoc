@@ -1,9 +1,14 @@
 == Part II.
 
-=== Section I.
+[.chapter-synopsis]
+* Some of my spiritual travels
+* Various exercises of soul I have passed through and experienced in the way of regeneration from my youth upward
+* Showing that when, by the operation of the holy Light and Spirit of the Lord upon my soul, I had attained to some degree of spiritual growth in my own particular, a concern of spirit came upon me for the prosperity of Truth in general, and a necessity to unite with faithful brethren for the discharge of the discipline in the church of Christ
+* Church government in the Apostles`' times and in our own, showing how nearly they agree
+* With some account of my journeys, voyages, etc.
 
-[.blurb]
-=== This Second Part gives some account of my spiritual travels, and the various exercises of soul I have passed through and experienced in the way of regeneration from my youth upward:--And further shows, that when, by the operation of the holy Light and Spirit of the Lord upon my soul, I had attained to some degree of spiritual growth in my own particular, a concern of spirit came upon me for the prosperity of Truth in general, and a necessity to unite with faithful brethren for the discharge of the discipline in the church of Christ:--Treating also of church government in the Apostles`' times and in our own, showing how nearly they agree:--With some account of my journeys, voyages, etc.
+[.centered]
+=== Section I.
 
 Though the spiritual exercises which I have gone through
 in my pilgrimage were so imprinted in my mind,
